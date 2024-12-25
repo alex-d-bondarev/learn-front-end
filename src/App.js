@@ -10,7 +10,7 @@ class App extends Component {
 
   
   async componentDidMount() {
-    fetch('http://localhost:8080/grades')
+    fetch('http://localhost:8080/web/grades')
       .then(response => response.json())
       .then(data =>  {
         this.setState({grades : data});

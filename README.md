@@ -1,11 +1,13 @@
 # learn-front-end
 
 Part of [The Complete Spring Boot Development Bootcamp](https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/) course.
-Is combined with [alex-d-bondarev/learn-spring-boot](https://github.com/alex-d-bondarev/learn-spring-boot)
+Is combined with [WebGradeController.java](https://github.com/alex-d-bondarev/learn-spring-boot/blob/main/src/main/java/com/alex_d_bondarev/hello_spring/web/WebGradeController.java#L24)
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+`npm install`
 
 ## Available Scripts
 
